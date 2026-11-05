@@ -1,0 +1,11 @@
+node_modules/
+.project_id
+.github_repo
+.env
+.env.*
+.vercel/
+.tanstack/
+dist/
+.DS_Store
+*.log
+.grok/*.log

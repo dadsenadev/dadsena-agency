@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Dadsena Technologies — Ecommerce & agency websites",
+      "hasCanvas": true,
+      "bodyTextLen": 3967,
+      "bodyTextHash": "c986621453b3a2aa2a0528daa3c5d369ee99f60d46d1b1404730d433a78e6e44",
+      "bodyTextPrefix": "D Dadsena Technologies Work Services Pricing Studio Start a proj",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Dadsena Technologies — Ecommerce & agency websites",
+      "hasCanvas": true,
+      "bodyTextLen": 3922,
+      "bodyTextHash": "b830d6805c58909be5aaa7762de6877aec76ded88fd5d417eea5fcd00632d497",
+      "bodyTextPrefix": "D Dadsena Technologies RAIPUR STUDIO · EST. 2025 Stores and stud",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
