@@ -14,7 +14,7 @@ const ribbon = [
   "Shopify",
   "WooCommerce",
   "Custom code",
-  "Agency sites",
+  "Hybrid apps",
   "UPI & COD",
   "GST invoices",
   "Founder-led",
@@ -144,7 +144,7 @@ export function HomePage() {
               Stores and studio sites, built to be kept.
             </h1>
             <p className="reveal mt-6 max-w-md text-lg text-sand">
-              Managed Shopify and WordPress from {inr(15000)}. Custom-coded shops and company sites from {inr(25000)}. You work with {studio.founder}, not a handoff chain.
+              Managed Shopify and WordPress from {inr(15000)}. Custom-coded sites from {inr(25000)}. Hybrid apps from {inr(35000)}. You work with {studio.founder}, not a handoff chain.
             </p>
             <div className="reveal mt-8 flex flex-col gap-3 sm:flex-row">
               <a
@@ -195,7 +195,7 @@ export function HomePage() {
             <div className="flex flex-col justify-between gap-6 md:flex-row md:items-end">
               <div>
                 <p className="text-xs font-medium tracking-widest text-copper uppercase">Services</p>
-                <h2 className="display mt-3 max-w-xl text-4xl md:text-6xl">Three ways to commission a site.</h2>
+                <h2 className="display mt-3 max-w-xl text-4xl md:text-6xl">Four ways to commission a build.</h2>
               </div>
               <p className="max-w-sm text-base text-ink/70">
                 Fees below are the project price before GST. 18% GST is added on the invoice, and registered businesses can claim it back.
