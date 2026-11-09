@@ -197,6 +197,50 @@ export const lines: Line[] = [
       },
     ],
   },
+  {
+    id: "hybrid-app",
+    index: "04",
+    title: "Hybrid mobile apps",
+    lede: "One React Native codebase for iPhone and Android. You get the source, a build you can install, and a path onto the stores.",
+    platforms: [
+      {
+        id: "react-native",
+        label: "iOS & Android",
+        tiers: [
+          {
+            id: "basic",
+            label: "Basic",
+            price: 35000,
+            delivery: "2 weeks",
+            blurb: "A first hybrid app: a few screens, one job, running on both phones.",
+            points: [
+              "React Native app for iOS and Android",
+              "Up to 5 screens around one core flow",
+              "Your brand colors, icon, and splash",
+              "A build you can install and test",
+              "Source code handed over",
+            ],
+          },
+          {
+            id: "advanced",
+            label: "Advanced",
+            price: 70000,
+            delivery: "4 weeks",
+            blurb: "A fuller app, with one phone feature and a store-ready package.",
+            points: [
+              "Everything in Basic",
+              "Up to 12 screens",
+              "Accounts, or one of: payments, camera, location, or push",
+              "Store screenshots, icon, and listing copy",
+              "Signing and a first submission to App Store and Play",
+              "Apple and Google accounts stay in your name",
+              "Fixes through the first review cycle",
+            ],
+          },
+        ],
+      },
+    ],
+  },
 ];
 
 export type Project = {
